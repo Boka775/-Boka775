@@ -1,15 +1,15 @@
 # Hello 👋 I'm Boka
 
 <div align="center">
-<img height="300" width="700" alt="Scorpion Background" align="center" src="PUT-YOUR-SCORPION-IMAGE-LINK-HERE">
+<img height="300" width="700" alt="Venom Background" align="center" src="PUT-YOUR-VENOM-IMAGE-LINK-HERE">
 </div>
 
 </br>
 
 # About ME 💬 :
 
-### - I'm Mohamed "Boka" from Egypt, beginner in programming ✨
-<img height="400" width="500" alt="Scorpion Style" align="right" src="PUT-YOUR-SCORPION-IMAGE-LINK-HERE">
+### - I'm Mohamed "Boka" from Fayoum, Egypt 🌍
+<img height="400" width="500" alt="Venom Style" align="right" src="PUT-YOUR-VENOM-IMAGE-LINK-HERE">
 
 ### - Learning :
 - ✨ Basics of Programming (C++ / Python)
