@@ -1,7 +1,7 @@
 # Hello 👋 I'm Boka
 
 <div align="center">
-<img height="300" width="700" alt="Venom Background" align="center" src="https://wallpapercave.com/wp/wp1810669.jpg">
+<img height="300" width="700" alt="Scorpion Background" align="center" src="PUT-YOUR-SCORPION-IMAGE-LINK-HERE">
 </div>
 
 </br>
@@ -9,7 +9,7 @@
 # About ME 💬 :
 
 ### - I'm Mohamed "Boka" from Egypt, beginner in programming ✨
-<img height="400" width="500" alt="Venom GIF" align="right" src="https://media.tenor.com/0WfCw7nYwqIAAAAd/venom.gif">
+<img height="400" width="500" alt="Scorpion Style" align="right" src="PUT-YOUR-SCORPION-IMAGE-LINK-HERE">
 
 ### - Learning :
 - ✨ Basics of Programming (C++ / Python)
@@ -17,7 +17,7 @@
 - ✨ Math & Physics concepts related to coding
 
 ### - Hobbies :
-- ⚽ Football
+- ⚽ Football  
 - 🥊 Boxing
 
 </br>
@@ -40,12 +40,8 @@
 
 If you want to reach out to me about programming or just to chat:
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:bwka755@gamil.com">
  <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/your-linkedin-profile/">
-  <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
 
 </p>
